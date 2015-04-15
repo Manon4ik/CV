@@ -1,0 +1,84 @@
+body {
+	background-color: #F5F5DC;
+	font: 1.2em 'Arial Regular', serif;
+}
+.header {
+	width: 960px;
+	margin: auto;
+}
+.img {
+	align-content: center;
+}
+h1 {
+	margin: auto;
+	color: #191970;
+	text-align: center;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background-color: darkorange;
+	padding: 15px 5px;
+	vertical-align: text-bottom;
+}
+#main {
+	width: 960px;
+	margin: auto;
+	clear: right;
+}
+h2, h3 {
+	color: #191970;
+	text-align: left;
+	background-color: darkorange;
+	padding: 5px 5px 5px 20px;
+	border-radius: 10px;
+}
+footer {
+	width: 960px;
+	margin: auto;
+	text-align: right;
+}
+.photo {
+	margin: auto;
+	height: 396px;
+	width: 50%;
+	float: left;
+	vertical-align: middle;
+	text-align: center;
+}
+.private {
+	margin-left: 40px;
+	width: 45%;
+	height: 396px;
+	float: left;
+	vertical-align: middle;
+	font: 18px 'Arial Bold', serif;
+}
+.normal_ltr {
+	font: 18px 'Arial Regular', serif;
+}
+.study {
+	float: left;
+	line-height: 150%;
+	clear: left;
+}
+ul {
+	font: Bold 1em 'Arial Bold', serif;
+}
+.li_normal {
+	font-weight: normal;
+	list-style-type: none;
+}
+.work {
+	clear: left;
+}
+.tabl_work {
+	border: 1px solid black;
+	margin: auto;
+}
+.tabl_work th, td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+}
+.hobby {
+	clear: left;
+}
